@@ -22,4 +22,3 @@ Cashprono is a football prediction website founded in 2017. Today, the website i
 
 ## Credits
 - Design by Nicolas Dupont
-- Development by [Florent Vandroy](https://florent-vandroy.fr/)
